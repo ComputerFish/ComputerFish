@@ -9,3 +9,7 @@
 <!--Repo Cards-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=computerfish&repo=MX-9916-Night-Vision&theme=dark&show_border=true&border_color=e2e2e2)](https://github.com/computerfish/MX-9916-Night-Vision)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=computerfish&repo=hackscope&theme=dark&show_border=true&border_color=e2e2e2)](https://github.com/computerfish/hackscope)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=computerfish&repo=MegaPrint-3D&theme=dark&show_border=true&border_color=e2e2e2)](https://github.com/computerfish/MegaPrint-3D)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=computerfish&repo=Mysterium-Acrylic-TKL&theme=dark&show_border=true&border_color=e2e2e2)](https://github.com/computerfish/Mysterium-Acrylic-TKL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=computerfish&repo=Pentest-Pal&theme=dark&show_border=true&border_color=e2e2e2)](https://github.com/computerfish/Pentest-Pal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=computerfish&repo=drone&theme=dark&show_border=true&border_color=e2e2e2)](https://github.com/computerfish/drone)
