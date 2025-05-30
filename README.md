@@ -36,3 +36,13 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=computerfish&repo=drone&theme=dark&show_border=true&border_color=e2e2e2" alt="drone Repo Card" />
   </a>
 </p>
+
+<!--Gist Cards-->
+<p align="center">
+  <a href="https://gist.github.com/ComputerFish/fdb60c43565245f40567534b44116e23">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=fdb60c43565245f40567534b44116e23&theme=dark&show_border=true&border_color=e2e2e2" alt="Gist Card" />
+  </a>
+  <a href="https://github.com/computerfish/Pentest-Pal">
+    <img src="https://github-readme-stats.vercel.app/api/gist?id=fdb60c43565245f40567534b44116e23&theme=dark&show_border=true&border_color=e2e2e2" alt="Gist Card" />
+  </a>
+</p>
