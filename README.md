@@ -14,7 +14,7 @@
 <!--Repo Cards-->
 <p align="center">
   <a href="https://github.com/computerfish/drone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=computerfish&repo=drone&theme=dark&show_border=true&border_color=e2e2e2&description_lines_count=3&show_owner=true&v=2" alt="drone Repo Card" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=computerfish&repo=drone&theme=dark&show_border=true&border_color=e2e2e2&description_lines_count=3&show_owner=true&v=2" alt="drone Repo Card" /> -->
   </a>
   <a href="https://github.com/computerfish/MX-9916-Night-Vision">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=computerfish&repo=MX-9916-Night-Vision&theme=dark&show_border=true&border_color=e2e2e2&description_lines_count=3" alt="MX-9916-Night-Vision Repo Card" />
