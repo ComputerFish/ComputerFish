@@ -2,7 +2,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/7cbdf521-e62a-46a9-85aa-616ce0fefe79" alt="My Drone" height=400 width=400>
+      <img src="https://github.com/user-attachments/assets/7cbdf521-e62a-46a9-85aa-616ce0fefe79" alt="My Drone" height=500 width=500>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/cc7ca2e2-7d63-406d-9305-c72afcc84c4c" alt="Flying footage from drone!" >
