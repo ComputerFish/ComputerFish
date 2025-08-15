@@ -1,6 +1,14 @@
-<p align="center">
-<!--   <img src="https://github.com/user-attachments/assets/f39dac1b-65d9-41cc-9e39-aa54f43f3a70" alt="Banner" /> -->
-</p>
+<!--Banner-->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/7cbdf521-e62a-46a9-85aa-616ce0fefe79" alt="My Drone" width="600" height="338">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/cc7ca2e2-7d63-406d-9305-c72afcc84c4c" alt="Flying footage from drone!" >
+    </td>
+  </tr>
+</table>
 
 <!--Trophies-->
 <p align="center">
