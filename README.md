@@ -2,10 +2,16 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/7cbdf521-e62a-46a9-85aa-616ce0fefe79" alt="My Drone" width="600" height="338">
+      <img src="https://github.com/user-attachments/assets/7cbdf521-e62a-46a9-85aa-616ce0fefe79" alt="My Drone" height=400 width=400>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/cc7ca2e2-7d63-406d-9305-c72afcc84c4c" alt="Flying footage from drone!" >
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/aa6971ca-64a3-41e5-b208-b72d2e068fb9" alt="PVS-5 Night Vision" >
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/b5c46132-8854-423c-bc29-b6fd70daeddd" alt="Building my keyboard" >
     </td>
   </tr>
 </table>
