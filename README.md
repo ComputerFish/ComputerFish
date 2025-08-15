@@ -1,13 +1,11 @@
 <p align="center">
-<!--   <img src="https://github.com/user-attachments/assets/f39dac1b-65d9-41cc-9e39-aa54f43f3a70" alt="Banner" />
-<!--   ![IMG_0112](https://github.com/user-attachments/assets/f39dac1b-65d9-41cc-9e39-aa54f43f3a70) --> -->
-
+<!--   <img src="https://github.com/user-attachments/assets/f39dac1b-65d9-41cc-9e39-aa54f43f3a70" alt="Banner" /> -->
 </p>
 
 <!--Trophies-->
 <p align="center">
   <a href="https://github.com/computerfish">
-    <img src="https://github-profile-trophy.vercel.app/?username=computerfish&theme=onedark" alt="Trophies" />
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=computerfish&theme=onedark" alt="Trophies" /> -->
   </a>
 </p>
 
