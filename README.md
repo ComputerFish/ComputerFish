@@ -25,12 +25,30 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-<b>AI Projects & Research</b>
+<h2>AI Projects & Research</h2>
+</p>
+
+<p align="center">
+  <a href="https://github.com/computerfish/Hybrid-Attention-Segformer">
+    <img src="https://repo-cards-seven.vercel.app/api/pin/?username=computerfish&repo=Hybrid-Attention-Segformer&theme=dark&show_border=true&border_color=e2e2e2&description_lines_count=3&cache_seconds=3600" alt="SegFormer-Repo-Card" />
+  </a>
+  <a href="https://github.com/computerfish/CNN-BUS-Classifier">
+    <img src="https://repo-cards-seven.vercel.app/api/pin/?username=computerfish&repo=CNN-BUS-Classifier&theme=dark&show_border=true&border_color=e2e2e2&description_lines_count=3" alt="MX-9916-Night-Vision Repo Card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/computerfish/U-Net-from-scratch">
+    <img src="https://repo-cards-seven.vercel.app/api/pin/?username=computerfish&repo=U-Net-from-scratch&theme=dark&show_border=true&border_color=e2e2e2&description_lines_count=3&cache_seconds=3600" alt="SegFormer-Repo-Card" />
+  </a>
+  <a href="https://github.com/computerfish/Fashion-MNIST-MLP">
+    <img src="https://repo-cards-seven.vercel.app/api/pin/?username=computerfish&repo=Fashion-MNIST-MLP&theme=dark&show_border=true&border_color=e2e2e2&description_lines_count=3" alt="MX-9916-Night-Vision Repo Card" />
+  </a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-<b>Hardware Projects</b>
+<h2>Hardware Projects</h2>
 </p>
 
 <!--Repo Cards-->
